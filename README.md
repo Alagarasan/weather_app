@@ -6,3 +6,5 @@ Follow these steps to run the node app.
 4. App will run on port 3000 by default.
 5. If you want the app to run on a particular port pass as an arg while strating the app. Eg: 'npm start 5000'
 6. To run tests use 'npm run tests'.
+7. Use Postman or similar apps to test.
+8. Sample call: http://localhost:3000/forecast?city=chennai&orderBy=asc
